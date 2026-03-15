@@ -34,3 +34,10 @@ This project performs exploratory data analysis on an online streaming platform 
 - Add interactive dashboards
 - Perform advanced analytics
 - Build predictive models
+
+- ## Key Insights
+
+- Movies dominate the streaming platform catalog compared to TV shows
+- Content production increased significantly after 2015
+- United States contributes the largest amount of streaming content
+- Streaming platforms have rapidly expanded global content distribution
